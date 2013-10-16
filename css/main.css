@@ -1,0 +1,68 @@
+@media all {
+
+    .dumbBoxWrap { /* The div that shows/hides. */
+        display:none;
+        z-index:40001 !important; /* High z-index to ensure it appears above all content */
+        -webkit-user-select: none !important;
+        user-select: none !important;
+        -webkit-user-drag: element !important;
+        background: none !important;
+    }
+    .dumbBoxWrap .vertical-offset { /* Fixed position to provide the vertical offset */
+        position:fixed !important;
+        top:30% !important;
+        width:100% !important;
+        z-index:40002 !important; /* ensures box appears above overlay */
+        background: none !important;
+    }
+    .dumbBoxWrap .dumbBox { /* The actual box, centered in the fixed-position div */
+        position:relative !important;
+        margin:0 auto !important;
+        /* Everything below is just visual styling */
+
+        /*background: #F0F0F0;*/
+        background: rgba(228, 228, 228, 0.85) !important;
+        border-radius: 3px !important;
+        box-shadow: rgb(0, 0, 0) 3px 5px 25px 0px !important;
+        width: 250px !important;
+        border: 0 !important;
+        padding: 5px !important;
+        font-size: 12px !important;
+    }
+    .dumbBoxWrap .dumbBox .inner {
+        background: #F1F1F1 !important;
+        padding: 10px !important;
+        border: 1px solid #000 !important;
+    }
+    .dumbBoxWrap .dumbBox input {
+        font: 12px/12px Arial, Helvetica, sans-serif !important;
+        margin: 3px 8px 3px 0 !important;
+        padding: 2px 5px !important;
+        min-height: 25px;
+        height: 25px;
+        color: #333 !important;
+        box-sizing: border-box;
+    }
+    .dumbBoxWrap .dumbBox input[type="number"] {
+        width: 100px;
+        background: #fff !important;
+        border: 0 !important;
+        box-shadow: rgb(0, 0, 0) 0px 0px 6px 0px !important;
+        color: #333 !important;
+    }
+    .dumbBoxWrap .dumbBox input[type="submit"] {
+        width: 70px;
+    }
+    .dumbBoxWrap .dumbBox header {
+        margin-bottom: 5px !important;
+        font: 12px/12px Arial, Helvetica, sans-serif !important;
+        cursor: default !important;
+        background: none !important;
+        color: #333 !important;
+    }
+    .dumbBoxWrap .dumbBox .buttons {
+        margin-top: 15px !important;
+        text-align: right !important;
+        background: none !important;
+    }
+}

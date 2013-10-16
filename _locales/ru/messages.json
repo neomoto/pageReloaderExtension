@@ -1,0 +1,41 @@
+{
+    "extName": {
+        "message": "«Обновлять каждые» в контекстном меню"
+    },
+    "extDescription": {
+        "message": "Расширение добавляет в контекстное меню страницы пункт «Обновлять каждые»"
+    },
+    "rootMenuItem" : {
+        "message": "Обновлять каждые"
+    },
+    "menuItem30" : {
+        "message": "30 минут"
+    },
+    "menuItem60" : {
+        "message": "1 час"
+    },
+    "menuItem120" : {
+        "message": "2 часа"
+    },
+    "menuItem360" : {
+        "message": "6 часов"
+    },
+    "menuItemcustom" : {
+        "message": "Задать интервал..."
+    },
+    "menuItem0" : {
+        "message": "Заданное страницей"
+    },
+    "modalTitle" : {
+        "message": "Автоматическое обновление страницы"
+    },
+    "cancel" : {
+        "message": "Отмена"
+    },
+    "minutes" : {
+        "message": "минут"
+    },
+    "seconds" : {
+        "message": "секунд"
+    }
+}

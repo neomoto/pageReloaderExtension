@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "__MSG_extName__",
+    "description": "__MSG_extDescription__",
+    "default_locale": "en_US",
+    "version": "1.0",
+    "background": {"scripts": ["background.js"]},
+    "icons": {
+        "16": "./images/user_icon_template_16.png",
+        "48": "./images/user_icon_template_48.png",
+        "128": "./images/user_icon_template_128.png"
+    },
+    "permissions": ["contextMenus", "tabs", "http://*/*", "https://*/*"],
+    "content_scripts": [
+        {
+            "matches": ["http://*/*", "https://*/*"],
+            "js": ["./js/zepto.min.js", "./js/myscript.js"],
+            "css": ["./css/main.css"]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "extName": {
+        "message": "«Reload every» in page context menu"
+    },
+    "extDescription": {
+        "message": "This extension will add a context menu item «Reload every» for page"
+    },
+    "rootMenuItem" : {
+        "message": "Reload every"
+    },
+    "menuItem30" : {
+        "message": "30 minutes"
+    },
+    "menuItem60" : {
+        "message": "1 hour"
+    },
+    "menuItem120" : {
+        "message": "2 hours"
+    },
+    "menuItem360" : {
+        "message": "6 hours"
+    },
+    "menuItemcustom" : {
+        "message": "Set interval..."
+    },
+    "menuItem0" : {
+        "message": "Page default"
+    },
+    "modalTitle" : {
+        "message": "Automatic page reload"
+    },
+    "cancel" : {
+        "message": "Cancel"
+    },
+    "minutes" : {
+        "message": "minutes"
+    },
+    "seconds" : {
+        "message": "seconds"
+    }
+}
