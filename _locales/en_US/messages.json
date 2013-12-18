@@ -1,6 +1,6 @@
 {
     "extName": {
-        "message": "«Reload every» in page context menu"
+        "message": "Page Reloader"
     },
     "extDescription": {
         "message": "This extension will add a context menu item «Reload every» for page"
