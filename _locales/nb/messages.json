@@ -1,0 +1,41 @@
+{
+    "extName": {
+        "message": "«Oppdatert hvert» i siders kontekstmeny"
+    },
+    "extDescription": {
+        "message": "Denne utvidelsen vil legge til «Oppdatert hvert» i siders kontekstmeny"
+    },
+    "rootMenuItem" : {
+        "message": "Oppdater hvert"
+    },
+    "menuItem30" : {
+        "message": "30 minutter"
+    },
+    "menuItem60" : {
+        "message": "1 time"
+    },
+    "menuItem120" : {
+        "message": "2 timer"
+    },
+    "menuItem360" : {
+        "message": "6 timer"
+    },
+    "menuItemcustom" : {
+        "message": "Sett mellomtid..."
+    },
+    "menuItem0" : {
+        "message": "Page default"
+    },
+    "modalTitle" : {
+        "message": "Automatisk sideoppdatering"
+    },
+    "cancel" : {
+        "message": "Avbryt"
+    },
+    "minutes" : {
+        "message": "minutter"
+    },
+    "seconds" : {
+        "message": "sekunder"
+    }
+}
