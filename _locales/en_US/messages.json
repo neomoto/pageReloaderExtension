@@ -1,9 +1,9 @@
 {
     "extName": {
-        "message": "«Reload every» in page context menu"
+        "message": "“Reload every” in page context menu"
     },
     "extDescription": {
-        "message": "This extension will add a context menu item «Reload every» for page"
+        "message": "This extension will add a context menu item “Reload every” for page"
     },
     "rootMenuItem" : {
         "message": "Reload every"
