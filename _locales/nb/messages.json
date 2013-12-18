@@ -3,39 +3,39 @@
         "message": "Page Reloader"
     },
     "extDescription": {
-        "message": "This extension will add a context menu item “Reload every” for page"
+        "message": "Denne utvidelsen vil legge til «Oppdatert hvert» i siders kontekstmeny"
     },
     "rootMenuItem" : {
-        "message": "Reload every"
+        "message": "Oppdater hvert"
     },
     "menuItem30" : {
-        "message": "30 minutes"
+        "message": "30 minutter"
     },
     "menuItem60" : {
-        "message": "1 hour"
+        "message": "1 time"
     },
     "menuItem120" : {
-        "message": "2 hours"
+        "message": "2 timer"
     },
     "menuItem360" : {
-        "message": "6 hours"
+        "message": "6 timer"
     },
     "menuItemcustom" : {
-        "message": "Set interval…"
+        "message": "Sett mellomtid…"
     },
     "menuItem0" : {
         "message": "Page default"
     },
     "modalTitle" : {
-        "message": "Automatic page reload"
+        "message": "Automatisk sideoppdatering"
     },
     "cancel" : {
-        "message": "Cancel"
+        "message": "Avbryt"
     },
     "minutes" : {
-        "message": "minutes"
+        "message": "minutter"
     },
     "seconds" : {
-        "message": "seconds"
+        "message": "sekunder"
     }
 }
