@@ -1,0 +1,41 @@
+{
+    "extName": {
+        "message": "Automatische Aktualisierung"
+    },
+    "extDescription": {
+        "message": "Diese Erweiterung fügt dem Context-Menü einen “Automatisch neu laden” Eintrag hinzu"
+    },
+    "rootMenuItem" : {
+        "message": "Automatisch neu laden"
+    },
+    "menuItem30" : {
+        "message": "30 Minuten"
+    },
+    "menuItem60" : {
+        "message": "1 Stunde"
+    },
+    "menuItem120" : {
+        "message": "2 Stunden"
+    },
+    "menuItem360" : {
+        "message": "6 Stunden"
+    },
+    "menuItemcustom" : {
+        "message": "Benutzerdefiniert…"
+    },
+    "menuItem0" : {
+        "message": "Vorgabe durch die Seite"
+    },
+    "modalTitle" : {
+        "message": "Aktualisierungszeit angeben"
+    },
+    "cancel" : {
+        "message": "Abbrechen"
+    },
+    "minutes" : {
+        "message": "Minuten"
+    },
+    "seconds" : {
+        "message": "Sekunden"
+    }
+}
