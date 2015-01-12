@@ -9,16 +9,16 @@
         "message": "Reload every"
     },
     "menuItem30" : {
-        "message": "30 minutes"
+        "message": "30 seconds"
     },
     "menuItem60" : {
-        "message": "1 hour"
+        "message": "1 minute"
     },
     "menuItem120" : {
-        "message": "2 hours"
+        "message": "2 minutes"
     },
     "menuItem360" : {
-        "message": "6 hours"
+        "message": "6 minutes"
     },
     "menuItemcustom" : {
         "message": "Set interval…"
