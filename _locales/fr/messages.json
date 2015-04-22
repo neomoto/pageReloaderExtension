@@ -1,0 +1,41 @@
+{
+    "extName": {
+        "message": "Page Reloader"
+    },
+    "extDescription": {
+        "message": "Cette extension ajoute un menu contextuel aux pages afin de les recharger à une fréquence régulière"
+    },
+    "rootMenuItem" : {
+        "message": "Recharger à toutes les"
+    },
+    "menuItem30" : {
+        "message": "30 secondes"
+    },
+    "menuItem60" : {
+        "message": "1 minute"
+    },
+    "menuItem120" : {
+        "message": "2 minutes"
+    },
+    "menuItem360" : {
+        "message": "6 minutes"
+    },
+    "menuItemcustom" : {
+        "message": "Définir un intervalle…"
+    },
+    "menuItem0" : {
+        "message": "Intervalle par défaut"
+    },
+    "modalTitle" : {
+        "message": "Rechargeur de page automatique"
+    },
+    "cancel" : {
+        "message": "Annuler"
+    },
+    "minutes" : {
+        "message": "minutes"
+    },
+    "seconds" : {
+        "message": "secondes"
+    }
+}
