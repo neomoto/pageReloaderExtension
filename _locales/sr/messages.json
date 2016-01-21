@@ -1,0 +1,41 @@
+{
+    "extName": {
+        "message": "Page Reloader"
+    },
+    "extDescription": {
+        "message": "Додаје ставку у контекстном менију “Освежи сваких” за аутоматско освежавање страница"
+    },
+    "rootMenuItem" : {
+        "message": "Освежи сваких"
+    },
+    "menuItem30" : {
+        "message": "30 секунди"
+    },
+    "menuItem60" : {
+        "message": "1 минут"
+    },
+    "menuItem120" : {
+        "message": "2 минута"
+    },
+    "menuItem360" : {
+        "message": "6 минута"
+    },
+    "menuItemcustom" : {
+        "message": "Подеси интервал…"
+    },
+    "menuItem0" : {
+        "message": "Основно за страницу"
+    },
+    "modalTitle" : {
+        "message": "Аутоматско освежавање странице"
+    },
+    "cancel" : {
+        "message": "Откажи"
+    },
+    "minutes" : {
+        "message": "минути"
+    },
+    "seconds" : {
+        "message": "секунде"
+    }
+}
